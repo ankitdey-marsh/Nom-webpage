@@ -18,8 +18,8 @@ const basebody = () => {
             <h1 className='mt-2 md:text-xl font-semibold text-lg'>My Github : <a href="https://github.com/ankitdey-marsh" className='underline underline-offset-4'>  ankitdey-marsh</a></h1>
             <h1 className='mt-2 md:text-xl font-semibold text-lg'>My Webpage : <a href="https://dub.sh/ankitdey" className='underline underline-offset-4'>dub.sh/ankitdey</a></h1>
             <h1 className='mt-10 md:text-lg text-md font-semibold md:w-6/12'>Contributions to the project are highly appreciated.</h1>
-            <footer className='absolute bottom-4 text-[#acb9f0]'>
-              <h1 className='text-xs'>Copyright © 2024 Ankit Dey</h1>
+            <footer className='absolute bottom-4 text-[#494969b4]'>
+              <h1 className='text-xs font-semibold'>Copyright © 2024 Ankit Dey</h1>
             </footer>
         </div>
       </div>
