@@ -5,7 +5,7 @@ const basebody = () => {
         <div className='md:mx-40 text-[#CDD6F4] md:mt-16 mt-12 mx-8'>
           <div className='flex justify-between'>
             <h1 className='md:text-4xl text-4xl font-bold'>Nom</h1>
-            <a href="https://discord.com/oauth2/authorize?client_id=1255600044229398558&permissions=10737571840&integration_type=0&scope=bot">
+            <a href="https://discord.com/oauth2/authorize?client_id=1255600044229398558&permissions=1689685231590464&integration_type=0&scope=bot+applications.commands">
               <div className='md:w-36 md:h-14 w-20 h-10 border-2 rounded-lg flex justify-center border-[#CDD6F4] hover:bg-indigo-950 transition-all duration-300 md:hover:scale-110 md:hover:-translate-y-1'>
                 <div className=''>
                   <h1 className='md:mt-2.5 md:text-2xl font-semibold font-poppins tracking-wider mt-1.5'>Invite</h1>
