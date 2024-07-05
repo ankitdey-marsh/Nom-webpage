@@ -13,7 +13,7 @@ const basebody = () => {
               </div>
             </a>
           </div>
-            <h1 className='md:mt-5 mt-12 md:text-lg text-sm font-semibold md:w-6/12 w-fill text-left font-rubix'>A multi-purpose Discord bot with Gemini integration, football news, fetch weather report, and much more. To provide finance and business news in the future and it looks forward to provide with other news formats as well.</h1>
+            <h1 className='md:mt-5 mt-12 md:text-lg text-sm font-semibold md:w-6/12 w-fill text-left font-rubix'>A multi-purpose Discord bot with Gemini integration, football news, fetch weather report, and much more. To provide finance and business news in the future and it looks forward to provide other news formats as well.</h1>
             <h1 className='mt-10 md:text-xl font-semibold text-lg'>Github Repository : <a href="https://github.com/ankitdey-marsh/Nom" className='underline underline-offset-4'>Visit Nom</a></h1>
             <h1 className='mt-2 md:text-xl font-semibold text-lg'>My Github : <a href="https://github.com/ankitdey-marsh" className='underline underline-offset-4'>  ankitdey-marsh</a></h1>
             <h1 className='mt-2 md:text-xl font-semibold text-lg'>My Webpage : <a href="https://dub.sh/ankitdey" className='underline underline-offset-4'>dub.sh/ankitdey</a></h1>
